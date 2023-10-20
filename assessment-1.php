@@ -408,7 +408,7 @@
 <?php
 } else {
   // User is not logged in, redirect to login page
-  header("Location: assessment-1.php");
+  header("Location: login.php");
   exit();
 }
 ?>
